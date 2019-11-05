@@ -8,16 +8,17 @@ div#container {
   width: 500px;
   margin-top: 50px;
   padding-left: 20px;
-  border-left: 3px solid #fb4b53;
+  border-left: 3px solid #dcdcdc;
 }
 
 h1 {
-  font-size: 43px;
+  font-size: 62px;
   font-weight: normal;
   margin: 0;
   padding: 0;
   color: #3d3d3d;
   margin-bottom: 40px;
+  line-height: 55px;
 }
 
 h2 {
