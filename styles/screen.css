@@ -1,0 +1,48 @@
+body {
+  font-family: 'Playfair Display', serif;
+  background-color: #f3f3f3;
+  padding: 0;
+}
+
+div#container {
+  width: 500px;
+  margin-top: 50px;
+  padding-left: 20px;
+  border-left: 3px solid #fb4b53;
+}
+
+h1 {
+  font-size: 43px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  color: #3d3d3d;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 21px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  color: #565656;
+  line-height: 1.5em;
+}
+
+span.spacer {
+  display: block;
+  margin: 20px 0;
+  color: #bebebe;
+}
+
+span.contact {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 11px;
+  color: #a4a4a4;
+}
+
+span.eposta {
+  color: #565656;
+  font-style: italic;
+}
