@@ -1,14 +1,13 @@
 body {
   font-family: 'Playfair Display', serif;
-  background-color: #f3f3f3;
+  background-color: #13171a;
   padding: 0;
 }
 
 div#container {
   width: 500px;
   margin-top: 50px;
-  padding-left: 20px;
-  border-left: 3px solid #dcdcdc;
+  padding-left: 50px;
 }
 
 h1 {
@@ -16,7 +15,7 @@ h1 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #3d3d3d;
+  color: #d5d9e0;
   margin-bottom: 40px;
   line-height: 55px;
 }
@@ -26,24 +25,24 @@ h2 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #565656;
+  color: #9fa5ad;
   line-height: 1.5em;
 }
 
 span.spacer {
   display: block;
   margin: 20px 0;
-  color: #bebebe;
+  color: #373d42;
 }
 
 span.contact {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 11px;
-  color: #a4a4a4;
+  color: #50565b;
 }
 
 span.eposta {
-  color: #565656;
+  color: #d5d9e0;
   font-style: italic;
 }
