@@ -5,9 +5,8 @@ body {
 }
 
 div#container {
-  width: 500px;
-  margin-top: 50px;
-  padding-left: 50px;
+  margin-top: 30px;
+  padding-left: 30px;
 }
 
 h1 {
@@ -45,4 +44,5 @@ span.contact {
 span.eposta {
   color: #d5d9e0;
   font-style: italic;
+  font-size: 16px;
 }
